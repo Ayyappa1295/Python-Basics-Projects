@@ -1,0 +1,30 @@
+
+[
+    {
+        "book_id": 1,
+        "title": "Python Programming",
+        "author": "John Smith",
+        "category": "Programming",
+        "isbn": "9781000000001",
+        "total_copies": 5,
+        "available_copies": 5
+    },
+    {
+        "book_id": 2,
+        "title": "Database Management Systems",
+        "author": "Raghu Ramakrishnan",
+        "category": "Database",
+        "isbn": "9781000000002",
+        "total_copies": 3,
+        "available_copies": 3
+    },
+    {
+        "book_id": 3,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "category": "Software Development",
+        "isbn": "9781000000003",
+        "total_copies": 4,
+        "available_copies": 4
+    }
+]
