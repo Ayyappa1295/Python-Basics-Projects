@@ -1,0 +1,17 @@
+
+[
+    {
+        "member_id": 1,
+        "name": "Rahul Kumar",
+        "phone": "9000000001",
+        "email": "rahul@example.com",
+        "joined_on": "2026-10-13"
+    },
+    {
+        "member_id": 2,
+        "name": "Priya Sharma",
+        "phone": "9000000002",
+        "email": "priya@example.com",
+        "joined_on": "2026-10-13"
+    }
+]
