@@ -1,0 +1,21 @@
+
+[
+    {
+        "loan_id": 1,
+        "book_id": 1,
+        "member_id": 1,
+        "issue_date": "2026-10-13",
+        "due_date": "2026-10-27",
+        "return_date": null,
+        "status": "Issued"
+    },
+    {
+        "loan_id": 2,
+        "book_id": 2,
+        "member_id": 2,
+        "issue_date": "2026-10-13",
+        "due_date": "2026-10-27",
+        "return_date": null,
+        "status": "Issued"
+    }
+]
