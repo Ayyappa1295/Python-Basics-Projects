@@ -1,0 +1,42 @@
+
+[
+  {
+    "id": "EMP1001",
+    "name": "Rahul Kumar",
+    "age": 25,
+    "gender": "Male",
+    "email": "rahul@example.com",
+    "phone": "9876543210",
+    "department": "IT",
+    "designation": "Python Developer",
+    "salary": 35000.0,
+    "joining_date": "2025-01-15",
+    "status": "Active"
+  },
+  {
+    "id": "EMP1002",
+    "name": "Priya Sharma",
+    "age": 27,
+    "gender": "Female",
+    "email": "priya@example.com",
+    "phone": "9876543211",
+    "department": "HR",
+    "designation": "HR Executive",
+    "salary": 28000.0,
+    "joining_date": "2024-11-10",
+    "status": "Active"
+  },
+  {
+    "id": "EMP1003",
+    "name": "Arjun Reddy",
+    "age": 29,
+    "gender": "Male",
+    "email": "arjun@example.com",
+    "phone": "9876543212",
+    "department": "Finance",
+    "designation": "Accountant",
+    "salary": 32000.0,
+    "joining_date": "2024-08-20",
+    "status": "Inactive"
+  }
+]
